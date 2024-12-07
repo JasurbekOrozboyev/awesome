@@ -1,0 +1,215 @@
+@media (min-width : 390px) and  (max-width : 844px)  {
+    main .menu{
+        display: none;
+    }
+    main .logo img{
+        width: 138px;
+        height: 33px;
+    }
+    main .chiziq button{
+        display: flex;
+        font-size: 24px;
+        border: none;
+    }
+    .header--body{
+        display: inline;
+    }
+    .header--body .left h1{
+        width: 313px;
+        height: 55px;
+        margin-left: 0px;
+        margin-top: 25px;
+        font-size: 24px;
+    }
+    .header--body .left p{
+        width: 308px;
+        height: 52px;
+        margin-left: 0;
+        font-size: 18px;
+    }
+    .header--body .left button{
+        width: 225px;
+        height: 50px;
+        font-size: 10px;
+        margin-left: 0;
+        margin-top: 50px;
+    }
+    .header--body .left button span{
+        padding-left: 120px;
+    }
+    .header--body .right img{
+        display: none;
+    }
+    .header--body{
+        margin: 0 auto;
+    }
+    /* >>>>>>>>>>>>?><<<<<<<< */
+    .info{
+        display: block;
+        flex-direction: ;
+        flex-wrap: wrap;
+        gap: 6px;
+        margin-left: 0;
+    }
+    .info .left .color--rgb{
+        width: 300px;
+        height: 68px;
+    }
+    .info .left .color--rgb h2{
+        font-size: 13px;
+        margin-left: 0px;
+    }
+    .info .left .color--rgb h3{
+        font-size: 20px;
+        margin-left: 0px;
+        margin-top: 0;
+    }
+    .info .left p{
+        width: 258px;
+        height: 52px;
+        font-size: 10px;
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+    .info .left button{
+        width: 195px;
+        height: 50px;
+        font-size: 10px;
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .info .right{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0px;
+        margin-left: 0;
+        padding-top: 0;
+
+    }
+    .info .right .box{
+        width: 155px;
+        height: 127px;
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+    .info .right .box i{
+        font-size: 15px;
+        margin-top: 25px;
+    margin-left: 25px;
+    color: var(--grey--);
+    }
+    .info .right .box h2{
+        width: 73px;
+        height: 17px;
+        font-size: 12px;
+        margin-top: 13px;
+        margin-left: 21px;
+    }
+    .info .right .box p{
+        width: 113px;
+        height: 27px;
+        font-size: 8px;
+        margin-top: 6px;
+        margin-left: 21px;
+    }
+
+    /* >>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<
+    /*  */
+    .parent .text p{
+        font-size: 18px;
+    }
+    .parent .text h2{
+        font-size: 21px;
+    }
+    .parent .items{
+        display: block;
+        margin-left: -30px;
+        
+    }
+    .parent .items .item{
+        width: 90%;
+        height: 350px;
+        margin-top: 10px;
+        margin-left: 30px;
+        border: 2px solid rgb(134, 130, 130);
+        padding-top: -100px;
+    
+    }
+    .parent .items .item i{
+        margin-left: 140px;
+    }
+    .parent .items .item h2{
+        margin-left: 80px;
+    }
+    .parent .items .item p{
+        width: 90%;
+        margin-left: 50px;
+    }
+    /* <<<<<<<<<<<<<<<<>>>>>>>>>>>> */
+    .parent--info{
+        display: block;
+    }
+    .parent--info .child{
+        margin-left: -110px;
+    }
+    .parent--info .child img{
+    display: none;
+    }
+    .parent--info .child h2{
+        font-size: 18px;
+        width: 250px;
+    }
+    .parent--info .child h3{
+        font-size: 20px;
+        width: 350px;
+    }
+    .parent--info .child p{
+        font-size: 16px;
+        width: 350px;
+    }
+
+    /* <<<<<<<<<<<<<<>>>>>>>>>>>>>>>> */
+    .chief h2{
+        font-size: 18px;
+        margin-left: -10px;
+    }
+    .chief h3{
+        font-size: 20px;
+        margin-left: -10px;
+    }
+    .person{
+        display: inline-block;
+        position: none;
+    }
+    .person .child{
+        border: 2px solid black;
+        margin-left: -10px;
+        margin-top: 5px;
+    }
+    .person .child .title{
+        display: none;
+    }
+
+
+    footer{
+ margin-left: -80px;
+ margin-top: 30px;
+}
+   .foot--main .text{
+    display: none;
+   }
+   .foot--main{
+    display: inline-block;
+   }
+   .foot--main ul li h2{
+    font-size: 18px;
+    margin-top: 20px;
+   }
+   .foot--main ul li input{
+    width: 350px;
+    margin-left: -35px;
+   }
+   .foot--main ul li button{
+    margin-left: -35px;
+   }
+}
